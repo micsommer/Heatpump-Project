@@ -218,3 +218,8 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Additional Database files for the Heatpump Project
+*.db
+*.sqlite3
+
